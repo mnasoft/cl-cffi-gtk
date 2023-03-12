@@ -1,6 +1,6 @@
 ;;;; Simple Message
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun example-simple-message ()
   (let ((response))

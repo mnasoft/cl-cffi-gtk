@@ -2,7 +2,7 @@
 
 ;; TODO: Finish this example
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 ;; Define a list of data types called "targets" that a destination widget will
 ;; accept. The string type is arbitrary, and negotiated between DnD widgets by

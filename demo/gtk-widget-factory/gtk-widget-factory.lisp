@@ -1,4 +1,4 @@
-(in-package #:gtk-widget-factory)
+(in-package :gtk-widget-factory)
 
 (defvar *application* nil)
 (defvar *application-window* nil)

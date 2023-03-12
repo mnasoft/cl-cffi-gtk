@@ -2,7 +2,7 @@
 ;;;;
 ;;;; This demo allows to change interactively the appearance of the frame.
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun demo-pixbuf-scale ()
   (within-main-loop

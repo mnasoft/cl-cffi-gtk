@@ -2,7 +2,7 @@
 ;;;;
 ;;;; This demo allows to change interactively the appearance of a GtkGrid.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-grid-interactive (&optional application)
   (within-main-loop

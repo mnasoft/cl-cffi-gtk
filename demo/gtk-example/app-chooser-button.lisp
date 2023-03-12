@@ -1,6 +1,6 @@
 ;;;; App Chooser Button
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun demo-app-chooser-button ()
   (within-main-loop

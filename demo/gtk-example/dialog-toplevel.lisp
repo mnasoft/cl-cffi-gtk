@@ -1,4 +1,4 @@
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun demo-dialog-toplevel (message)
  (let ((response nil))

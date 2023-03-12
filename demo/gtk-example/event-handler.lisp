@@ -4,7 +4,7 @@
 ;;;; prints the event on the terminal and passes the event to the
 ;;;; GTK+ event handler.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun my-event-handler (event)
   (format t "~&in MY-EVENT-HANDLER~%")

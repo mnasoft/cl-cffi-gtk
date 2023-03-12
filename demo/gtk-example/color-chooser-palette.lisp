@@ -1,6 +1,6 @@
 ;;;; Color Chooser Palette - 2021-11-5
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defparameter *color-chooser-palette-ui*
 "<interface>

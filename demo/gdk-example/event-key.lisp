@@ -1,6 +1,6 @@
 ;;;; Example GdkEventKey - 2021-4-3
 
-(in-package #:gdk-example)
+(in-package :gdk-example)
 
 (defun example-event-key ()
   (within-main-loop

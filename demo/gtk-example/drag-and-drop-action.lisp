@@ -1,6 +1,6 @@
 ;;;; Drag and Drop with Action - 2021-9-25
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-drag-and-drop-action ()
   (within-main-loop

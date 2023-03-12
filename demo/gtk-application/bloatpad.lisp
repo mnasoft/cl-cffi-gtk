@@ -1,6 +1,6 @@
 ;;;; Application Bloatpad - 2021-10-26
 
-(in-package #:gtk-application)
+(in-package :gtk-application)
 
 (defparameter *menu*
 "<?xml version='1.0' encoding='UTF-8'?>

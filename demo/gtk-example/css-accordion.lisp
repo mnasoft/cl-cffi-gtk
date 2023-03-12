@@ -3,7 +3,7 @@
 ;;;; A simple accordion demo written using CSS transitions and multiple
 ;;;; backgrounds.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-css-accordion (&optional application)
   (within-main-loop

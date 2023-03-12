@@ -11,7 +11,7 @@
 ;;;;
 ;;;; Look at the Image demo for additional pixbuf usage examples.
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defvar *image-files*
         '("apple-red.png"

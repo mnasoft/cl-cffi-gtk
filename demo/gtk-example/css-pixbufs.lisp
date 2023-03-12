@@ -3,7 +3,7 @@
 ;;;; This demo is done in honour of the Pixbufs demo further down.
 ;;;; It is done exclusively with CSS as the background of the window.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-css-pixbufs (&optional application)
   (within-main-loop

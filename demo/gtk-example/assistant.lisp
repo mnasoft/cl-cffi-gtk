@@ -4,7 +4,7 @@
 ;;;; an operation into several simpler sequential steps, and to guide the user
 ;;;; through these steps.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun apply-changes-gradually (assistant pbar)
   (let ((fraction (+ 0.025d0 (gtk-progress-bar-fraction pbar))))

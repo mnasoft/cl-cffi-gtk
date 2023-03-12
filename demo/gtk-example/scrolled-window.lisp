@@ -1,6 +1,6 @@
 ;;;; Scrolled Window (2021-3-19)
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-scrolled-window ()
   (within-main-loop

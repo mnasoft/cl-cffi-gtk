@@ -4,7 +4,7 @@
 ;;;; GtkPopovers can be attached to any widget, and will be displayed
 ;;;; within the same window, but on top of all its content.
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun create-popover (parent child pos)
   (let ((popover (make-instance 'gtk-popover

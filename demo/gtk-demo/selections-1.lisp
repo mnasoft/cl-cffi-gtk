@@ -1,6 +1,6 @@
 ;;;; Retrieving Selections - 2021-4-16
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun selection-received (widget selection-data time)
   (declare (ignore widget time))

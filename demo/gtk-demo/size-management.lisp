@@ -2,7 +2,7 @@
 ;;;;
 ;;;;
 
-(in-package #:gtk-demo)
+(in-package :gtk-demo)
 
 (defun demo-size-management ()
   (within-main-loop

@@ -2,7 +2,7 @@
 ;;;;
 ;;;; You can blend multiple backgrounds using the CSS blend modes available.
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defparameter +blend-modes+ '(("Color"         "color")
                               ("Color (burn)"  "color-burn")

@@ -1,6 +1,6 @@
 ;;;; Color Chooser Widget - 2021-11-5
 
-(in-package #:gtk-example)
+(in-package :gtk-example)
 
 (defun example-color-chooser-widget (&optional application)
   (within-main-loop
